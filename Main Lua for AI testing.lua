@@ -7,7 +7,11 @@ local training_data = {
     {question = "do you like lua", answer = 1},
     {question = "is it sunny", answer = 1},
     {question = "do you hate bugs", answer = 0},
-    {question = "is it night", answer = 0}
+    {question = "is it night", answer = 0},
+    {question = "is it cool being a AI", answer = 1},
+    {question = "do you use any libarys" answer = 0},
+    {question = "are you doing good" answer = 1},
+    {question = "are you good" answer = 1}
 }
 
 -- Build vocabulary and convert questions to numerical format
