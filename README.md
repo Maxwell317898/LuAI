@@ -1,3 +1,4 @@
 # LuAI
 the lua yes or no AI 
-!This AI might say some things that are wrong but i am currantly working to fix its training!
+> !This AI might say some things that are wrong but i am currantly working to fix its training!
+LuAI is purely made on Lua NO ADDED LIBERYS 
